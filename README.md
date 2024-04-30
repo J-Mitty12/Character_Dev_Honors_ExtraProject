@@ -7,3 +7,5 @@
 4/29 - Finished Model
 
 4/30 - Created UVs
+
+4/30 - Surfaced and completed character
