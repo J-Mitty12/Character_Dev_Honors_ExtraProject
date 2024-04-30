@@ -5,3 +5,5 @@
 4/17 - Modeled Rough Prototype
 
 4/29 - Finished Model
+
+4/30 - Created UVs
